@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sport-shampoo",
+    "name": "SPORT Shampoo",
+    "mood": "sport",
+    "type": "shampoo",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/sport.jpg",
+    "description": "แชมพูสำหรับนักกีฬากลิ่นสปอร์ตสดชื่น ช่วยชำระเหงื่อและความมันหลังซ้อม ให้หนังศีรษะรู้สึกสะอาดพร้อมลุยต่อ"
+  },
+  {
+    "id": "confident-shampoo",
+    "name": "CONFIDENT Shampoo",
+    "mood": "confident",
+    "type": "shampoo",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/confident.jpg",
+    "description": "แชมพูสำหรับนักกีฬาที่ต้องการความมั่นใจ ด้วยกลิ่นหอมสะอาดสุขุม พร้อมดูแลความสะอาดของเส้นผมในทุกวัน"
+  }
+]
